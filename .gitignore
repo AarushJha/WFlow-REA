@@ -1,0 +1,7 @@
+.env
+.DS_Store
+__pycache__/
+*.pyc
+settings.json
+.venv/
+WFlow.app/

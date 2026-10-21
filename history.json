@@ -1,0 +1,51 @@
+[
+  {
+    "time": "15:21:43",
+    "latency": 0.3759138584136963,
+    "duration": 3.32,
+    "text": "Thank you.",
+    "pasted": true
+  },
+  {
+    "time": "15:21:50",
+    "latency": 0.3031790256500244,
+    "duration": 4.36,
+    "text": "Hello, hello.",
+    "pasted": true
+  },
+  {
+    "time": "15:23:00",
+    "latency": 0.3183870315551758,
+    "duration": 2.76,
+    "text": "Masterpoint.",
+    "pasted": true
+  },
+  {
+    "time": "15:24:12",
+    "latency": 0.35652804374694824,
+    "duration": 4.14,
+    "text": "Vielen Dank.",
+    "pasted": true
+  },
+  {
+    "time": "15:25:12",
+    "latency": 0.5327069759368896,
+    "duration": 1.76,
+    "text": "Thank you.",
+    "pasted": true
+  },
+  {
+    "time": "15:31:47",
+    "latency": 0.34422922134399414,
+    "duration": 5.72,
+    "text": "Hello, my name is Alex.",
+    "pasted": true
+  },
+  {
+    "time": "15:49:22",
+    "latency": 0.28003883361816406,
+    "duration": 1.974,
+    "text": "Hello",
+    "pasted": true
+  }
+]
